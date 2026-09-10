@@ -15,13 +15,9 @@ The sample demonstrates the experiment using an engineering project and two cont
 
 ## Prompt Patterns for Engineering Content Generation
 
-### Date:
+### Date:10/09/2026
 
----
-
-### Reg. No.:
-
----
+### Reg. No.:212223050052
 
 # Aim
 
